@@ -1,0 +1,6 @@
+﻿I - Interface Segregation Principle (Princípio da Segregação de Interfaces)
+Interfaces devem ser específicas para os clientes que as utilizam, evitando dependências não necessárias.
+
+Exemplo:
+
+Suponha um sistema onde diferentes tipos de trabalhadores têm comportamentos específicos:

@@ -1,0 +1,6 @@
+﻿L - Liskov Substitution Principle (Princípio da Substituição de Liskov)
+Objetos devem ser substituíveis por instâncias de seus subtipos sem afetar a funcionalidade do programa.
+
+Exemplo:
+
+Vamos considerar um sistema de gerenciamento de figuras geométricas onde é possível calcular a área de várias formas:

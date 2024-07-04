@@ -1,0 +1,6 @@
+﻿D - Dependency Inversion Principle (Princípio da Inversão de Dependências)
+Dependa de abstrações, não de implementações concretas.
+
+Exemplo:
+
+Considere um sistema de gerenciamento de usuários que depende de um repositório abstrato:

@@ -1,0 +1,6 @@
+﻿O - Open/Closed Principle (Princípio Aberto/Fechado)
+Entidades de software devem estar abertas para extensão, mas fechadas para modificação.
+
+Exemplo:
+
+Suponha um sistema de desconto que oferece diferentes tipos de descontos para diferentes categorias de clientes:

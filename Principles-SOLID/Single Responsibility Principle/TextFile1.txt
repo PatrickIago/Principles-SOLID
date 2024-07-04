@@ -1,0 +1,6 @@
+﻿S - Single Responsibility Principle (Princípio da Responsabilidade Única)
+Uma classe deve ter apenas uma razão para mudar, ou seja, deve ter apenas uma responsabilidade.
+
+Exemplo:
+
+Imagine um sistema de logística que precisa calcular o custo de frete para diferentes tipos de produtos. Aqui está um exemplo simplificado:
