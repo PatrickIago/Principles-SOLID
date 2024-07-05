@@ -25,5 +25,3 @@ Sinta-se à vontade para contribuir com melhorias, sugestões ou correções. Ab
 Contato
 Email: mendespatrick720@gmail.com
 
-
-Este README.md fornece uma visão geral do seu projeto .NET.SOLID e mostra como os princípios do SOLID são aplicados no código.
