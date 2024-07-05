@@ -26,7 +26,4 @@ Contato
 Email: mendespatrick720@gmail.com
 
 
-LinkedIn: Patrick Iago dos Santos Mendes
-
-
 Este README.md fornece uma visão geral do seu projeto .NET.SOLID e mostra como os princípios do SOLID são aplicados no código.
